@@ -25,3 +25,29 @@ Below the commit message fields, decide whether to add your commit to the curren
 Commit branch options
 
 Propose file change button
+
+
+**Branch**-allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository.
+
+**Clone**-copy the repository from GitHub.com to your local machine
+
+**Commit**-an individual change to a file (or set of files).
+
+**Fetch**-a primary command used to download contents from a remote repository
+
+**GIT**-a version control system that lets you manage and keep track of your source code history. 
+
+**Github**-a platform for hosting code that allows for version control and collaboration.
+
+**Merge**-the commits are combined into one commit and merged into the default branch
+
+**Merge Conflict**-happen when you merge branches that have competing commits
+
+**Push**-how you transfer commits from your local repository to a remote repo
+
+**Pull**-let you tell others about changes you've pushed to a branch in a repository on GitHub
+
+**Remote**-the place where your code is stored
+
+**Repository**-contains all of your project's files and each file's revision history
+
